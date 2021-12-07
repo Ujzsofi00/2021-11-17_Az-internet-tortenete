@@ -82,6 +82,7 @@ a, a:link, a:visited, a:active {
 
 .jobbra {
 	float: right;
+  margin: 10px;
 }
 
 .active {
